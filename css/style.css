@@ -1,0 +1,13 @@
+.fanToggle {
+    text-align: center;
+}
+
+.fanToggle img{
+    height: 400px;
+}
+.fanToggle button {
+    padding: 10px 30px;
+    margin: 30px;
+    background-color: aqua;
+    border-radius: 10px;
+}
